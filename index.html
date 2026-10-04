@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>东方 Project · PC-98</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="navbar">
+      <div class="brand">
+        <h1 class="brand-title">东方 Project</h1>
+        <span class="brand-badge">PC-98</span>
+      </div>
+      <div class="lang-switch-wrapper">
+        <div class="lang-switch" role="tablist" aria-label="语言版本">
+          <button type="button" class="lang-btn active" data-lang="jp">日文原版</button>
+          <button type="button" class="lang-btn" data-lang="cn">中文汉化</button>
+        </div>
+        <select id="language" hidden>
+          <option value="jp" selected>日文原版</option>
+          <option value="cn">中文汉化</option>
+        </select>
+      </div>
+    </header>
+
+    <main class="content-area">
+      <div id="games" class="games-grid"></div>
+    </main>
+
+    <footer class="footer-bar">
+      <div class="controls-guide">
+        <span class="guide-item"><kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd> 移动</span>
+        <span class="guide-item"><kbd>Z</kbd> 确认 / 射击</span>
+        <span class="guide-item"><kbd>X</kbd> 炸弹</span>
+        <span class="guide-item"><kbd>Esc</kbd> 暂停</span>
+      </div>
+    </footer>
+  </div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

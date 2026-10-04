@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "legacy": {
+    "jp": {
+      "url": "disks/jp.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 7722936,
+      "sha256": "5de4ac9c57bbb8b5392641990a934cd1236871da38702aecfbb4e8734af6b61e",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48256,
+      "languageMarker": "GENSO   "
+    },
+    "cn": {
+      "url": "disks/cn.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 8331653,
+      "sha256": "4b0d6aaf3c9de7afa369af8967c47abf3ca0ac4eac7e8cda7f32abcc643e4307",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48256,
+      "languageMarker": "HUMAROKU"
+    }
+  },
+  "games": {
+    "1-jp": {
+      "url": "disks/1-jp.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 1410371,
+      "sha256": "24e835fe53c9fb77ee2f05a1ae9056833188b29f1d999bed26b8cf574ed210dc",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH01JP  ",
+      "game": "1",
+      "lang": "jp"
+    },
+    "2-jp": {
+      "url": "disks/2-jp.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 861659,
+      "sha256": "7f8a97fee102c762b6c8800ffe788ebc555111e443aa1d2d53842a2c3976dbe6",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH02JP  ",
+      "game": "2",
+      "lang": "jp"
+    },
+    "3-jp": {
+      "url": "disks/3-jp.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 1800070,
+      "sha256": "1261d725195fd35b4c601c65eccd2dff1a2e69f217db0c195e97d89545e3bb74",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH03JP  ",
+      "game": "3",
+      "lang": "jp"
+    },
+    "4-jp": {
+      "url": "disks/4-jp.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 1773366,
+      "sha256": "63b93b637bd5b17b95b9c9996743b6f397df8ede3848ebadde6198f93d5bae05",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH04JP  ",
+      "game": "4",
+      "lang": "jp"
+    },
+    "5-jp": {
+      "url": "disks/5-jp.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 1953513,
+      "sha256": "165312332f0e4778696f6ca8cc5375d0f50c00088f04a12519992338e4c2ef7c",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH05JP  ",
+      "game": "5",
+      "lang": "jp"
+    },
+    "2-cn": {
+      "url": "disks/2-cn.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 887001,
+      "sha256": "c2a6f3eefddeddf29232aaa6eba9030b8ee47acde3222887d5ebfc3f3d58179d",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH02CN  ",
+      "game": "2",
+      "lang": "cn"
+    },
+    "3-cn": {
+      "url": "disks/3-cn.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 1815717,
+      "sha256": "776472cb4c98b99e5143f735ec988712a3ec470a7b9a37001490193135d81f56",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH03CN  ",
+      "game": "3",
+      "lang": "cn"
+    },
+    "4-cn": {
+      "url": "disks/4-cn.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 2902410,
+      "sha256": "f63f26dbea032cc49b4ad1d6c7ac23799406a9b2e32f9bc21a191a75e1ffe0ce",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH04CN  ",
+      "game": "4",
+      "lang": "cn"
+    },
+    "5-cn": {
+      "url": "disks/5-cn.hdi.gz",
+      "size": 21415936,
+      "compressedSize": 2094158,
+      "sha256": "1c1a707c2904328f9262ecb00d01ae6ef3d334c509eb164c693c4eecf7c275d8",
+      "autoexecOffset": 302080,
+      "autoexecCapacity": 8192,
+      "autoexecSizeOffset": 48444,
+      "languageMarkerOffset": 48192,
+      "languageMarker": "TH05CN  ",
+      "game": "5",
+      "lang": "cn"
+    }
+  }
+}
