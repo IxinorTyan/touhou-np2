@@ -119,8 +119,8 @@
     "4-cn": {
       "url": "disks/4-cn.hdi.gz",
       "size": 21415936,
-      "compressedSize": 2902410,
-      "sha256": "f63f26dbea032cc49b4ad1d6c7ac23799406a9b2e32f9bc21a191a75e1ffe0ce",
+      "compressedSize": 1816185,
+      "sha256": "53ab10bdcf0869be854069a91680411e2efdd5cd8173e3e782a40644796d7b65",
       "autoexecOffset": 302080,
       "autoexecCapacity": 8192,
       "autoexecSizeOffset": 48444,
